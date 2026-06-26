@@ -39,7 +39,7 @@ ________________________________________
 ________________________________________
 ▶️ Cómo ejecutar el proyecto
 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/biblioteca-digital1.git
+git clone https://github.com/sayayin92/Biblioteca-Digital1.git
 2. Entrar al proyecto
 cd biblioteca-digital
 3. Ejecutar la aplicación
