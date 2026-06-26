@@ -49,7 +49,7 @@ go run main.go
 
 
 ## 📅 Fecha
-26 de junio de 2026
+28 de junio de 2026
 
 ## 🚀 Conclusión
 Este proyecto demuestra el uso de estructuras de datos, concurrencia y programación en Go aplicados a un sistema funcional de biblioteca digital.
